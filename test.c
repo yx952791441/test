@@ -1,4 +1,8 @@
-i am king!!!
-i am king!!!
+#include <stdio.h>
+
+int main()
+{
+	printf("hello world");
+}
 
 
